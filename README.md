@@ -1,8 +1,7 @@
 "Initial commit" 
 "Feature in progress" 
-<<<<<<< HEAD
-"Feature in progress" 
 "Bug fix in progress" 
+<<<<<<< HEAD
 "Bug fix in progress" 
 <<<<<<< HEAD
 "New changes in cloned repository" 
@@ -17,3 +16,6 @@
 =======
 "Some changes to stash" 
 >>>>>>> Stashed changes
+=======
+"New changes in cloned repository"
+>>>>>>> 3180ff84bb6d90cbb6e633d3d77c54dc6cbe1033
