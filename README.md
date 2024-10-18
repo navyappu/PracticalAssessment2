@@ -12,6 +12,7 @@
 >>>>>>> 269b3071a3d4df91d591a33f79339ea1abafb2ce
 "Release candidate" 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "Feature stash updates" 
 =======
 "Some changes to stash" 
@@ -19,3 +20,7 @@
 =======
 "New changes in cloned repository"
 >>>>>>> 3180ff84bb6d90cbb6e633d3d77c54dc6cbe1033
+=======
+"Some changes to stash" 
+>>>>>>> Stashed changes
+"some changes to stash" 
